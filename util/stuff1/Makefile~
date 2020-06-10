@@ -1,0 +1,5 @@
+CC=g++
+
+stuff:
+	g++ -o haha stuff.cc
+	./haha

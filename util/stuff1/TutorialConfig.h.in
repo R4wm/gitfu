@@ -1,0 +1,2 @@
+#define stuff1_VERSION_MAJOR @stuff1_VERSION_MAJOR@
+#define stuff1_VERSION_MINOR @stuff1_VERSION_MINOR@
