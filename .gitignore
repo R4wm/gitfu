@@ -1,1 +1,13 @@
+.cproject
+.project
+.pydevproject
+.settings
+build
+
+CMakeCache.txt
+*.a
+*.build.log
+*.kate-swp
+*.cbp
+CMakeFiles/
 *~

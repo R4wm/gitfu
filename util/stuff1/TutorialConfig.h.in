@@ -1,2 +1,3 @@
-#define stuff1_VERSION_MAJOR @stuff1_VERSION_MAJOR@
-#define stuff1_VERSION_MINOR @stuff1_VERSION_MINOR@
+#define stuff_VERSION_MAJOR @stuff_VERSION_MAJOR@
+#define stuff_VERSION_MINOR @stuff_VERSION_MINOR@
+#cmakedefine USE_MYMATH

@@ -3,4 +3,5 @@
 
 CMakeFiles/stuff1.dir/stuff.cc.o: TutorialConfig.h
 CMakeFiles/stuff1.dir/stuff.cc.o: stuff.cc
+CMakeFiles/stuff1.dir/stuff.cc.o: MathFunctions/MathFunctions.h
 

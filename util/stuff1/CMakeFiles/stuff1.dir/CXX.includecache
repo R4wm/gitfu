@@ -6,13 +6,3 @@
 
 #IncludeRegexTransform: 
 
-/home/voidconf/git/gitfu/util/stuff1/TutorialConfig.h
-
-/home/voidconf/git/gitfu/util/stuff1/stuff.cc
-cstdio
--
-iostream
--
-TutorialConfig.h
-/home/voidconf/git/gitfu/util/stuff1/TutorialConfig.h
-
